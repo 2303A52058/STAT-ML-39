@@ -7,3 +7,4 @@
 [https://github.com/2303A52058/STAT-ML-39/blob/main/SML_A7.ipynb]
 [https://github.com/2303A52058/STAT-ML-39/blob/main/SML_A8.ipynb]
 [https://github.com/2303A52058/STAT-ML-39/blob/main/SML_A9.ipynb]
+[https://github.com/2303A52058/STAT-ML-39/blob/main/SML_A10.ipynb]
